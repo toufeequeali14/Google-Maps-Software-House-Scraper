@@ -1,0 +1,29 @@
+# Python Virtual Environments
+venv/
+*/venv/
+*/**/venv/
+__pycache__/
+*.py[cod]
+gmaps_parser.py
+
+# Large binaries, archives, and applications
+*.tar.gz
+request_via_httpx.py
+*.zip
+*.so
+Apps/
+.env
+
+# Local virtual environment & python cache
+venv/
+__pycache__/
+
+# IDEs & Profiles
+.idea/
+chrome_profile/
+
+# Temporary or raw data files
+results.raw.txt
+islamabad_raw
+italy_raw
+karachi_raw
